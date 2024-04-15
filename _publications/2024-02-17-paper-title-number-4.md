@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "Large scale points-to-points highway latency prediction"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+permalink: /publication/2022 Highway Latency Prediction
+excerpt: 'This paper is about highway latency prediction by XGBoost'
+venue: '26th International Conference of Hong Kong Society for Transportation Studies'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We consider the simultaneous prediction of traffic latencies among various locations in metropolitan freeway systems, addressing the following new challenges. (1) We introduce flexibility in data engineering to tackle the non-uniform availability of latency data, which is especially significant for long-distance journeys, whose infrequent traffic leads to highly fluctuating and even absence of latency data in the monitoring period immediately before the instant of prediction. (2) We introduce an estimation technique supplementing actual latency measurements with historical data to deal with the segment-wise latencies in different freeway segments, such that the collected latency data balances the need for timely predictions and data sufficiency. (3) We compare the segment-added prediction with the single prediction. Numerical experiments showed that they are comparable for short distances, but the single predictor is more superior for long distances. This shows that a hybrid approach is suitable for system-wide latency predictions
