@@ -1,5 +1,6 @@
 ---
 title: "Large scale points-to-points highway latency prediction"
+date: 2022
 collection: publications
 permalink: /publication/2022 Highway Latency Prediction
 excerpt: 'This paper is about highway latency prediction by XGBoost'
