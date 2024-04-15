@@ -31,10 +31,10 @@ author:
   email            : "zlaoaa@umich.edu" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #arxiv            : "https://arxiv.org/"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   researchgate     : # URL
 
   # Repositories and software development
