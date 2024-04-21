@@ -11,4 +11,4 @@ I am a senior undergraduate majoring in [physics](https://lsa.umich.edu/physics)
 
 I am supervised by Professor Finn Larsen.
 
-You can find my CV [../files/Zhiquan_Lao_CV_April_24_spec.pdf]
+You can find my CV [here](../files/Zhiquan_Lao_CV_April_24_spec.pdf)
